@@ -1,0 +1,4 @@
+{
+  "name": "Dump ENV",
+  "desc": "Simply runs `env`"
+}
